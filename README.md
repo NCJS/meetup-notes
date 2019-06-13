@@ -1,3 +1,3 @@
 # Meetup notes
 
-A place to store notes from our bi-weekly meetups.
+See the individual files for the notes
