@@ -1,0 +1,23 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-cgb-block-my-block  {
+  background: url('https://media.giphy.com/media/OkVVUlG40FnuE/giphy.gif');
+  border: 0.2rem dashed $yellow;
+  color: $white;
+  margin: 10px auto;
+  max-width: 740px;
+  padding: 2rem;
+  text-align: center;
+  font-size: 50px;
+  animation: flash 1s linear infinite;
+}
+
+@keyframes flash {
+  50% {
+    opacity: 0;
+  }
+}
